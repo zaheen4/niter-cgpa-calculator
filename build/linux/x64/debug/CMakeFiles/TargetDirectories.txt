@@ -1,0 +1,14 @@
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/install.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/CMakeFiles/cgpa_calcu.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir

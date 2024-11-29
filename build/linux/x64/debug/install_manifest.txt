@@ -1,0 +1,12 @@
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/cgpa_calcu
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/zaheen/Documents/cgpa_calcu/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
